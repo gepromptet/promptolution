@@ -10,7 +10,7 @@ include = [{ path = "promptolution/experiment/conf/**/*.yaml", format = ["sdist"
 promptolution-experiment = "promptolution.experiment.launch:main"
 
 [tool.poetry.dependencies]
-python = ">=3.10,<3.13"
+python = ">=3.11,<3.13"
 numpy = ">=1.26.0, <3.0.0"
 pandas = ">=2.2.2"
 tqdm = ">=4.66.5"
