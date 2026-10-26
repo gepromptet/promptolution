@@ -3,7 +3,7 @@
 [![Docs](https://github.com/gepromptet/promptolution/actions/workflows/docs.yml/badge.svg?branch=main)](https://github.com/gepromptet/promptolution/actions/workflows/docs.yml)
 [![PyPI version](https://img.shields.io/pypi/v/promptolution.svg)](https://pypi.org/project/promptolution/)
 ![Code Style](https://img.shields.io/badge/Code%20Style-black-black)
-![Python Versions](https://img.shields.io/badge/Python%20Versions-%E2%89%A53.10-blue)
+![Python Versions](https://img.shields.io/badge/Python%20Versions-%E2%89%A53.11-blue)
 [![Getting Started](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gepromptet/promptolution/blob/main/tutorials/getting_started.ipynb)
 
 ![promptolution](https://github.com/user-attachments/assets/84c050bd-61a1-4f2e-bc4e-874d9b4a69af)
